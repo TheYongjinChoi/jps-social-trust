@@ -9,8 +9,8 @@ Authors: [Yongjin Choi](http://twitter.com/TheYongjinChoi)<sup>1</sup> & [Dong C
 
 ## Data
 
-* Data source: [Understanding America Study Project](https://uasdata.usc.edu/index.php)
-  * Wellcome Global Monitor survey 
+* Data sources
+  * [Wellcome Global Monitor survey](https://wellcome.org/reports/wellcome-global-monitor-covid-19/2020)
     - Waves: 2018 and 2020
     - Sample size: 37,761 reponses from 5,446 respondents (39,521 responses from 5,579 respondents before data cleaning)
   * [Google Mobility Reports](https://www.google.com/covid19/mobility/)
